@@ -1,0 +1,13 @@
+Z:\Documents\GitBucket\MyPortfolio\ASD\MatthewHill_CE08\MatthewHill_CE08\bin\Debug\MatthewHill_CE08.exe.config
+Z:\Documents\GitBucket\MyPortfolio\ASD\MatthewHill_CE08\MatthewHill_CE08\bin\Debug\MatthewHill_CE08.exe
+Z:\Documents\GitBucket\MyPortfolio\ASD\MatthewHill_CE08\MatthewHill_CE08\bin\Debug\MatthewHill_CE08.pdb
+Z:\Documents\GitBucket\MyPortfolio\ASD\MatthewHill_CE08\MatthewHill_CE08\obj\Debug\MatthewHill_CE08.csprojResolveAssemblyReference.cache
+Z:\Documents\GitBucket\MyPortfolio\ASD\MatthewHill_CE08\MatthewHill_CE08\obj\Debug\MatthewHill_CE08.exe
+Z:\Documents\GitBucket\MyPortfolio\ASD\MatthewHill_CE08\MatthewHill_CE08\obj\Debug\MatthewHill_CE08.pdb
+\\vmware-host\Shared Folders\Documents\GitBucket\MyPortfolio\ASD\MatthewHill_CE08\MatthewHill_CE08\bin\Debug\MatthewHill_CE08.exe.config
+\\vmware-host\Shared Folders\Documents\GitBucket\MyPortfolio\ASD\MatthewHill_CE08\MatthewHill_CE08\bin\Debug\MatthewHill_CE08.exe
+\\vmware-host\Shared Folders\Documents\GitBucket\MyPortfolio\ASD\MatthewHill_CE08\MatthewHill_CE08\bin\Debug\MatthewHill_CE08.pdb
+\\vmware-host\Shared Folders\Documents\GitBucket\MyPortfolio\ASD\MatthewHill_CE08\MatthewHill_CE08\obj\Debug\MatthewHill_CE08.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Documents\GitBucket\MyPortfolio\ASD\MatthewHill_CE08\MatthewHill_CE08\obj\Debug\MatthewHill_CE08.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\Documents\GitBucket\MyPortfolio\ASD\MatthewHill_CE08\MatthewHill_CE08\obj\Debug\MatthewHill_CE08.exe
+\\vmware-host\Shared Folders\Documents\GitBucket\MyPortfolio\ASD\MatthewHill_CE08\MatthewHill_CE08\obj\Debug\MatthewHill_CE08.pdb

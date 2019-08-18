@@ -1,0 +1,7 @@
+\\vmware-host\Shared Folders\Desktop\PrimeNumberApp\PrimeNumberApp\bin\Debug\MatthewHill_CE08.exe.config
+\\vmware-host\Shared Folders\Desktop\PrimeNumberApp\PrimeNumberApp\bin\Debug\MatthewHill_CE08.exe
+\\vmware-host\Shared Folders\Desktop\PrimeNumberApp\PrimeNumberApp\bin\Debug\MatthewHill_CE08.pdb
+\\vmware-host\Shared Folders\Desktop\PrimeNumberApp\PrimeNumberApp\obj\Debug\PrimeNumberApp.csproj.CoreCompileInputs.cache
+\\vmware-host\Shared Folders\Desktop\PrimeNumberApp\PrimeNumberApp\obj\Debug\MatthewHill_CE08.exe
+\\vmware-host\Shared Folders\Desktop\PrimeNumberApp\PrimeNumberApp\obj\Debug\MatthewHill_CE08.pdb
+\\vmware-host\Shared Folders\Desktop\PrimeNumberApp\PrimeNumberApp\obj\Debug\PrimeNumberApp.csprojResolveAssemblyReference.cache
